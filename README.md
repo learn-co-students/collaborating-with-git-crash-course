@@ -1,3 +1,10 @@
+## My partner(s) and I are about to start a new project.. what do we do?
+One of you should create the repository. The owner of the repo should click the "Settings" tab (small gear icon) at the top of the page on github.com, then click "Collaborators and Teams", then _add the other team member as a collaborator on the repo_. This will give the collaborator _write_ access, that means they can push directly to the repository.
+
+The partner should _clone_ this repository, _not fork it_. When you fork something it is like maintaining an entirely separate copy. Your team should have one repository (a single source of truth) that all members are collaborating on using git.
+
+Once the project is done, if the team member who did not create the repo would like to have a version of it on their own github page (ie github.com/my-github-username/name-of-project) that would be a good time to fork it. All team members should have a robust commit history on the project so it should be clear that everyone contributed. (See below) 
+
 ## So, I wrote some code, I tested it, and I'm ready to push my changes. Now what?
 
 ## Step 1: Commit
