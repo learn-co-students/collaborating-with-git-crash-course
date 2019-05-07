@@ -1,4 +1,4 @@
-## My partner(s) and I are about to start a new project.. what do we do?
+## My partner(s) and I are about to start a new project. What do we do?
 One of you should create the repository. The owner of the repo should click the "Settings" tab (small gear icon) at the top of the page on github.com, then click "Collaborators and Teams", then _add the other team member as a collaborator on the repo_. This will give the collaborator _write_ access, that means they can push directly to the repository.
 
 The partner should _clone_ this repository, _not fork it_. When you fork something it is like maintaining an entirely separate copy. Your team should have one repository (a single source of truth) that all members are collaborating on using git.
